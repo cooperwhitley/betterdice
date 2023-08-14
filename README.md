@@ -1,4 +1,4 @@
-# Better Dice
+# betterdice
 ###### by Cooper Whitley
 
 ## Overview
