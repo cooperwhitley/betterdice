@@ -30,6 +30,9 @@ As a user...
 - I want the die/dice to be animated
 - I want to choose a color theme
 - I want to be able to input stat bonuses to be applied to a given roll
+- I want to have multiple profiles within the single page for each party member and the DM
+- I want to be able to select how many of each die to roll with output showing 
+- I want to be able to choose weighting distributions (normal, skewed, equal)
 ## Wireframes
 #### Basic Layout
 #### Functionality
