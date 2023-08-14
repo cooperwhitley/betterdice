@@ -5,7 +5,7 @@
 Inspired by a tweet by game designer Josh Sawyer praising curved probability of dice rolls for traditional rpg based video games, this is a dice tool utilizing standard DnD dice sets to bring weighted probability to your actual tabletop setup.
 
 #### Inspiration
-<a href="https://twitter.com/jesawyer/status/1689703533787103236?s=20"><img src="./assets/pictures/jsawyermeme.jpeg"></a>
+<a href="https://twitter.com/jesawyer/status/1689703533787103236?s=20" target="_blank"><img src="./assets/pictures/jsawyermeme.jpeg"></a>
 
 #### Technologies Used
 - HTML
