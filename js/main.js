@@ -22,6 +22,9 @@
 // weight button div
 // roll button
 // history display
+// description text hide button
+const hideMessageEl = document.getElementById('description-hide');
+const explainerEl = document.getElementById('description')
 
 
 
@@ -96,4 +99,7 @@ function rollDice(dieChoice, dieOutputMode, numOfDice, buff, debuff, dieWeight) 
 
 /*---event listeners----*/
 
-
+hideMessageEl.addEventListener('click', () => {
+    explainerEl.style = 'color: rgba(255, 255, 255, 0); background-color: transparent; transition: color 500ms ease, background-color 500ms ease;';
+    hideMessageEl.style = 'color: rgba(255, 255, 255, 0); cursor: default; transition: color 500ms ease;';
+})
